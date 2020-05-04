@@ -17,6 +17,16 @@ Templates form the backbone of the C++ *Standard Template Library*
 or *STL*, as you might imagine from the name. We'll start looking 
 at this library in Lecture 10-3.
 
+
+## Video Links
+
+`Slide 01` [Part 01. Inheritance: Account Hierarchy](https://ensemble.reed.edu/Watch/r9TNj8s4) *15m00s*  
+`Slide 26` [Part 02. Virtual Methods](https://ensemble.reed.edu/Watch/f9RFg46Y) *13m45s*  
+`Slide 43` [Part 03. Shape Example](https://ensemble.reed.edu/Watch/z4KHd6a9) *03m30s*  
+`Slide 57` [Part 04. Polymorphism](https://ensemble.reed.edu/Watch/g2WLy47A) *06m00s*  
+`Slide 62` [Part 05. Templates](https://ensemble.reed.edu/Watch/Wp2y6J8S) *14m15s*  
+`Slide 70` [Part 06. Template Compilation Question](https://ensemble.reed.edu/Watch/Gf6e4NHi) *02m30s*  
+
 ---
 
 ### Inheritance in C++
